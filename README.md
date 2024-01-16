@@ -2,6 +2,7 @@
 
 This is a simple Python script that fetches weather information for a specified city using the OpenWeatherMap API.
 
+I have made two project files, Weather_project.py can be used for a simple code without GUI and weather_project_with_gui.py can be used when user requires a GUI with the code.
 ## Getting Started
 
 To get started with this project, follow the steps below:
