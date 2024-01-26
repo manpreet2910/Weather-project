@@ -23,19 +23,19 @@ bash-
 
 2. Create a virtual environment (optional but recommended):
 
-bash-
+''' bash-
     python -m venv venv
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-
+'''
 3. Install the required dependencies
 
 4. Set up your OpenWeatherMap API key:
 
 . Copy the `.env.example` file to create a new file named `.env` :
-
+'''
 bash- 
     cp .env.example .env
-
+'''
 
 . Open the '.env' file and replace "your_actual_api_key" with your real OpenWeatherMap API key.
 
