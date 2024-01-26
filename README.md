@@ -32,10 +32,10 @@ bash-
 4. Set up your OpenWeatherMap API key:
 
 . Copy the `.env.example` file to create a new file named `.env` :
-'''
+```
 bash- 
     cp .env.example .env
-'''
+```
 
 . Open the '.env' file and replace "your_actual_api_key" with your real OpenWeatherMap API key.
 
