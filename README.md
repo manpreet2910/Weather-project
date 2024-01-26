@@ -16,17 +16,17 @@ To get started with this project, follow the steps below:
 ### Installation
 
 1. Clone the repository to your local machine:
-
+```
 bash-
     git clone https://github.com/your-username/weather-project.git
     cd weather-project
-
+```
 2. Create a virtual environment (optional but recommended):
-
-''' bash-
+```
+ bash-
     python -m venv venv
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-'''
+```
 3. Install the required dependencies
 
 4. Set up your OpenWeatherMap API key:
